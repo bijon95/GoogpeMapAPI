@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "823430729802",
+    "firebase_url": "https://realtimedatabase-1896e.firebaseio.com",
+    "project_id": "realtimedatabase-1896e",
+    "storage_bucket": "realtimedatabase-1896e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823430729802:android:73b337c55b8d29d0",
+        "android_client_info": {
+          "package_name": "info.bijon.googpemapapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823430729802-m04g3ac60q07i8i1ivjgmvut4nqqq4p9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyCDfLQaSKFp1VtpkG3zw9GTgRB8za60A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
